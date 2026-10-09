@@ -1,0 +1,8 @@
+ESTADISTICA HENRY HIPOTESIS
+
+1. Crea un repositorio publico en GitHub llamado estadistica-henry-hipotesis.
+2. Descomprime el ZIP y sube sus archivos directamente a la raiz del repositorio. index.html no debe quedar dentro de otra carpeta.
+3. En Settings > Pages: Source = Deploy from a branch, Branch = main, Folder = / (root). Guarda.
+4. Espera a que GitHub Pages indique el enlace publicado.
+
+Puedes pasar esta carpeta a otra laptop por USB y abrir index.html para usar los calculos sin internet. La instalacion desde el navegador requiere que la pagina este publicada.
